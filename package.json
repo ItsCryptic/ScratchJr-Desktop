@@ -125,7 +125,7 @@
         ]
     },
     "dependencies": {
-        "electron-compile": "^6.4.2",
+        "electron-compile": "^6.4.4",
         "electron-is-dev": "^0.3.0",
         "electron-squirrel-startup": "^1.0.0",
         "intl": "^1.2.5",
